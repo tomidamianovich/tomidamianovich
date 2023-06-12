@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;My name is Tomas Damianovich and I'm an Software Engineer graduated from <a href="https://utn.edu.ar/es/">UTN (National Technological University)
 </a>.
 
-&nbsp;&nbsp;&nbsp;&nbsp;I'm from Argentine 🇦🇷 , living in La Plata city and currently working at <a href="https://www.mercadolibre.com/">Mercadolibre</a>. 
+&nbsp;&nbsp;&nbsp;&nbsp;I'm from Argentine 🇦🇷 , living in Madrid 🇪🇸 and currently working at <a href="https://capitole-consulting.com/es/">Capitole Consulting</a>. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;You can find me on <a href="https://www.linkedin.com/in/tomasdr/">Linkedin</a>.
 
