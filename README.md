@@ -1,12 +1,9 @@
-Perfecto, aquí tienes la versión en inglés actualizada, con el link a LinkedIn y tu proyecto `tomasdamianovich.dev` incluido:
-
----
-
 ## 👋 Hi, I'm Tomás Damianovich
 
 I'm a **Software Engineer** graduated from [UTN (National Technological University)](https://utn.edu.ar/es/).
 
-Originally from Argentina 🇦🇷, I currently live in Madrid 🇪🇸 and work at [Capitole Consulting](https://capitole-consulting.com/es/), building scalable, high-performance frontend solutions.
+Originally from Argentina 🇦🇷, I am also a Spanish citizen 🇪🇸, currently living in Madrid and working at Capitole Consulting
+, building scalable, high-performance frontend solutions.
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/tomasdr/) or check out my online portfolio on [tomasdamianovich.dev](https://tomasdamianovich.dev).
 
