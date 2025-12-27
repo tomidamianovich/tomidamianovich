@@ -41,8 +41,3 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/tomasdr/) or c
 * Microfrontend architectures and Module Federation
 * Personal projects with SSR and improved SEO
 
----
-
-Si quieres, puedo **hacer la versión final lista para GitHub**, con badges de tecnologías, iconos y secciones interactivas que destaquen tu perfil senior. Esto haría que tu portfolio luzca más profesional.
-
-¿Quieres que haga esa versión lista para copiar y pegar?
