@@ -17,8 +17,8 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/tomasdr/) or c
 
 * **Personal / Freelance Projects**
 
-  * Built an **online CV / portfolio** at [tomasdamianovich.dev](https://tomasdamianovich.dev) using React and Linaria with SSR and performance optimization.
-  * Developed UI/UX components with Storybook, publicly deployed.
+  * Built an **online CV / portfolio** at [tomasdamianovich.dev](https://portfolio-storybook-tomasdamianovich.vercel.app/) using React and Next.js for SSR and performance optimization.
+  * Developed UI/UX components with [Storybook](), publicly deployed.
   * Experience with monorepos, Vite, and modular architecture.
 
 ---
